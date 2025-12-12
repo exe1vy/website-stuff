@@ -1,0 +1,146 @@
+body.norm{
+    background-color: rgb(145, 97, 104);
+    padding: 0px 20px;
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+h1{
+    font-family: "san-serif", "Arial";
+    color: rgb(207, 178, 181);
+    text-align: center;
+}
+
+h3{
+    font-family: "san-serif", "Arial";
+    color: rgb(145, 97, 104);
+    text-align: center;
+    font-size: 200%;
+}
+
+.info{
+    text-align: center;
+}
+
+p{
+    font-family: "san-serif", Arial, Helvetica, sans-serif;
+    color: rgb(173, 137, 142);
+}
+
+.start{
+    text-align: center;
+    border-bottom: 3px solid rgb(207, 178, 181);
+}
+
+h2{
+    text-align: center;
+    color: rgb(215, 190, 193);
+    font-family: "san-serif", Arial, Helvetica, sans-serif;
+}
+
+.navBar{
+    display: flex;
+    font-family: "san-serif", Arial, Helvetica, sans-serif;
+    padding: 10px;
+    align-items: center;
+    background-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    width: auto;
+    height: 60px;
+    gap: 50px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.boxing{
+    display: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+    align-items: center;
+    background-color: rgb(158, 114, 120);
+    width: auto;
+    height: auto;
+    gap: flex;
+    margin-bottom: auto;
+    border-radius: 20px;
+}
+
+.box-link{
+    display: flex;
+    font-size: 30px;
+    line-height: 60px;
+    text-decoration: none;
+    color: rgb(145, 97, 104);
+    opacity: 0.8;
+    font-weight: 400;
+}
+
+.box-link:hover {
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+
+
+
+.frame{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 500px;
+    height: 500px
+}
+
+.frame1{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 400px;
+    height: 400px
+}
+
+.frame2{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 480px;
+    height: 480px
+}
+
+.frame3{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 500px;
+    height: 900px
+}
+
+.frame4{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 400px;
+    height: 600px
+}
+
+.frame5{
+    display: block;
+    border-color: rgb(207, 178, 181);
+    border-radius: 20px;
+    margin: 0 auto;
+    min-width: 700px;
+    height: 400px
+}
